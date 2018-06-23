@@ -37,3 +37,4 @@ Able to use Microsoft Visual Studio, BlueJ, and Android Studio.
 Capable of using git and gitub.  
 Have a good understanding of computer engineering. Able to assemble and fix a PC.  
 
+
